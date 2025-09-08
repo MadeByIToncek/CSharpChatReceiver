@@ -1,0 +1,1 @@
+﻿~~Stolen~~ Borrowed & translated from [kusaanko/YouTubeLiveChat](https://github.com/kusaanko/YouTubeLiveChat)
